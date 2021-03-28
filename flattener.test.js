@@ -1,5 +1,5 @@
 const flattener = require("./flattener");
-const {JSON1, JSON1Flattened, JSON2, JSON2Flattened, JSON3, JSON3Flattened, JSON4, JSON4Flattened, JSON5, JSON5Flattened} = require("./testCases");
+const { JSON1, JSON1Flattened, JSON2, JSON2Flattened, JSON3, JSON3Flattened, JSON4, JSON4Flattened, JSON5, JSON5Flattened } = require("./testCases");
 
 //Test 1 
 test('Test 1', () => {
