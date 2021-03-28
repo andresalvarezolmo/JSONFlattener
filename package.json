@@ -1,0 +1,25 @@
+{
+  "name": "jsonflattener",
+  "version": "1.0.0",
+  "description": "Requirements to run the program:\r - Have node installed on your PC, to check it type on your terminal  \"node -v\". If you do not have it you can download it from: https://nodejs.org/en/download/\r - Use a linux based terminal",
+  "main": "flattener.js",
+  "dependencies": {
+    "get-stdin": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "cat test.json | node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresalvarezolmo/JSONFlattener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresalvarezolmo/JSONFlattener/issues"
+  },
+  "homepage": "https://github.com/andresalvarezolmo/JSONFlattener#readme"
+}
