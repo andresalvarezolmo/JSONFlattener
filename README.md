@@ -18,6 +18,7 @@ cat test.json | node main.js
 ```
 
 ## How to run the provided tests?
+To run the provided tests on flattener.test.js run:
 ```console
-jest
+npm run test
 ```
