@@ -8,16 +8,16 @@ JSONFlattener is a JavaScript utility that takes a JSON object as input and outp
 
 If it is the first time you run this program then navigate to the repository directory and execute this command to install the needed npm packages:
 ```console
-- npm install
+npm install
 ```
 
 ## How to run the program?
 To run the program execute this line on a linux based terminal (if you want to modify the input you can do it by changing the content of test.json):
 ```console
-- cat test.json | node main.js
+cat test.json | node main.js
 ```
 
 ## How to run the provided tests?
 ```console
-- jest
+jest
 ```
