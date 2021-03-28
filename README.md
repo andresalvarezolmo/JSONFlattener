@@ -1,6 +1,6 @@
 # JSONFlattener
 
-JSONFlattener is a JavaScript utility that takes a JSON object as input and outputs a flattened version of the JSON object, with keys as the path to every terminal value in the JSON structure.
+JSONFlattener is a JavaScript utility that takes a JSON object as input and outputs a flattened version of the JSON object, with keys as the path to every terminal value in the JSON structure. The flattened result is printed on terminal
 
 ## Requirements to run the program:
 - Have node.js installed on your PC, to check it type on your terminal  "node -v". If you do not have it you can download it from: https://nodejs.org/en/download/
